@@ -9,6 +9,7 @@
 
 Фичи:
 -Api проекта протестировано, покрытие тестов составляет 88%. При каждом запуске uvicorn происходит тестирование, вычисление покрытия и логирование результата
+-Весь бэк построен по SOLID архитектуре
 -Пароли пользователей зашифрованы в бд
 -При регестрации человек должен пройти капчу, которая каждый раз рандомно генерится из ресунков грейпфрута 
 -В таск менеджере присутствует технология Drag and drop, что улучшает пользовательский опыт
@@ -22,3 +23,7 @@
 ![image](https://github.com/user-attachments/assets/129c3bc4-465a-411d-9944-5fb9d500210c)
 ![image](https://github.com/user-attachments/assets/2df5aedf-3c9b-4bae-bedb-7d58c27d4613)
 ![image](https://github.com/user-attachments/assets/5a43b397-b58d-4bd7-834d-25243d76b1c2)
+
+
+Логирование:
+![image](https://github.com/user-attachments/assets/4e1ad052-e5b5-4702-8a2d-df95e76bed74)
